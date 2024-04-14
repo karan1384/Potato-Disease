@@ -11,4 +11,3 @@ numpy
 notebook
 tensorflow-addons
 tensorflow-model-optimization
-tensorflow==2.5
